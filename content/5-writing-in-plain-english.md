@@ -1,6 +1,8 @@
 ---
-title: Writing in plain English
+title: Writing content
 ---
+
+Writing in plain English
 
 We use plain English to:
 
