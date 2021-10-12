@@ -6,7 +6,7 @@ title: Introduction
 
 These are the standards we work to as content designers at DfE. 
 
-This guidance will help
+This guidance will help:
 
 * new content designer joining DfE understand our ways of working so that they can confidently get started
 * DfE staff understand how to work with content designers to delivery high quality guidance and services
