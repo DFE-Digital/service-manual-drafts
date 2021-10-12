@@ -12,7 +12,7 @@ This guidance will help
 * DfE staff understand how to work with content designers to delivery high quality guidance and services
 * any members of staff wanting to know what skills are required to become a content designer
 
-Our content design community is not restricted to the profession and we join with our colleagues across other professions too.
+Our content design community is not restricted to the profession and we join up with our colleagues across other professions too.
 
 This is not an L&D tool – we have the [Trello toolkit](https://trello.com/b/DwkYOqDi/content-design-toolkit-in-beta) for that. 
 
