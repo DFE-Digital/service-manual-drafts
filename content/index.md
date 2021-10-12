@@ -18,7 +18,7 @@ This is not an L&D tool, we have the [Trello toolkit](https://trello.com/b/DwkYO
 
 This is not a professional development or support resource, we have [the content design community](https://trello.com/b/lsijeDj5/dfe-content-designers-community) for that. 
 
-This is not a form of induction, we have the Civil Service induction for that, and you should also have a team induction. Speak to your line manager.
+This is not a form of induction, we have the Civil Service induction for that. You should also have a team induction, speak to your line manager about that.
 
 ## Content design in government
 
