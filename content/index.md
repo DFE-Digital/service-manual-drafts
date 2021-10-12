@@ -20,6 +20,8 @@ This is not a professional development resource – we have [the content design 
 
 This is not a form of induction – we have the Civil Service induction for that, and you should also have a team induction. Speak to your line manager.
 
+## Content design in government
+
 As content designers within the civil servies, we work to the standards published in: 
 
 * [Content creation and publishing guidance](https://www.gov.uk/guidance/content-designer)
@@ -27,6 +29,12 @@ As content designers within the civil servies, we work to the standards publishe
 * [Style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
 We are part of the user-centred design profession family. You can [find what we do and what skills you need to become one](https://www.gov.uk/guidance/content-designer).
+
+The [digital communications team](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/communications-publish-gov-uk.aspx) have provided a guide on what you need to do in order to get content published on GOV.UK
+
+They also have published the DFE content strategy which is worth a read to [understand how we (DfE) approach content on GOV.UK](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/communications-dfe-govuk-content-strategy.aspx).
+
+If you do not have access to the guidance please email the team: [insert]
 
 The following guidance will help you understand how we can work togther:
 
