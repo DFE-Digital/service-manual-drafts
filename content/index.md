@@ -30,11 +30,7 @@ As content designers within the civil servies, we work to the standards publishe
 
 We are part of the user-centred design profession family. You can [find what we do and what skills you need to become one](https://www.gov.uk/guidance/content-designer).
 
-The [digital communications team](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/communications-publish-gov-uk.aspx) have provided a guide on what you need to do in order to get content published on GOV.UK
-
-They also have published the DFE content strategy which is worth a read to [understand how we (DfE) approach content on GOV.UK](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/communications-dfe-govuk-content-strategy.aspx).
-
-If you do not have access to the guidance please email the team: [insert]
+We have a DfE wide [communications strategy](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/communications-dfe-govuk-content-strategy.aspx) which we also need to use when creating content. 
 
 The following guidance will help you understand how we can work togther:
 
