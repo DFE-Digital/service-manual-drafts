@@ -1,27 +1,22 @@
 ---
-title: Index
+title: Introduction
 ---
 
-## Hello from Govspeak 🎉
+## Hello from the DfE content design community 🎉
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut **labore et dolore magna aliqua**. Fermentum dui faucibus in ornare
-quam viverra orci sagittis. Luctus accumsan tortor posuere ac ut consequat.
-Sit amet nisl purus in mollis nunc sed id. Vel fringilla est ullamcorper eget
-nulla facilisi etiam. Sed viverra tellus in hac. _Sed cras ornare arcu dui
-vivamus arcu felis_. Lorem ipsum dolor sit amet consectetur adipiscing elit. Ac
-orci phasellus egestas tellus rutrum tellus pellentesque. Fames ac turpis
-egestas maecenas pharetra convallis posuere morbi leo. Purus semper eget duis
-at tellus at urna condimentum mattis. Eget velit aliquet sagittis id
-consectetur. Platea dictumst quisque [sagittis purus sit](#).
+These are the standards we work to as content designers at DfE. 
 
-### Cras adipiscing enim eu turpis egestas pretium.
+This guidance will help
 
-Interdum posuere lorem ipsum dolor. Et ultrices neque ornare aenean euismod.
-Donec ultrices tincidunt arcu non sodales neque sodales ut. Egestas pretium
-aenean pharetra magna ac placerat vestibulum lectus. Augue lacus viverra vitae
-congue eu consequat.  Nisl pretium fusce id velit. Non odio euismod lacinia at
-quis. Porttitor leo a diam sollicitudin. Viverra maecenas accumsan lacus vel.
-Netus et malesuada fames ac turpis. Ipsum nunc aliquet bibendum enim facilisis
-gravida neque.  Ultrices in iaculis nunc sed augue. Lacus vestibulum sed arcu
-non odio euismod.
+* new content designer joining DfE understand our ways of working so that I can get going and get the right support to get started
+* DfE staff understand how to work with content designers to delivery high quality guidance and services
+* any members of staff wanting to know what skills are required to become a content designer
+
+This is not an L&D tool – we have the [Trello toolkit](https://trello.com/b/DwkYOqDi/content-design-toolkit-in-beta) for that. 
+
+This is not a tool to deliver professional development – we have [the content design community](https://trello.com/b/lsijeDj5/dfe-content-designers-community) for that. 
+
+This is not an induction tool – we have the Civil Service induction for that, and you should also have a team induction. Speak to your line manager.
+
+Contents
+
