@@ -37,6 +37,7 @@ The following guidance will help you understand how we can work togther at DfE:
 * user needs, start with them and remember they will change over time
 * it's not just about the words
 * accessibility, it's the law
+* how to write well
 * test with users, get feedback and iterate
 * monitor anlytics and performance, continue to iterate and improve
 * when will it end
