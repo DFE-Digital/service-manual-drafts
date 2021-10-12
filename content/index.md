@@ -79,3 +79,5 @@ Minimum standards for any content:
 * have the correct level of clearance through a sign off process
 
 For any content on our main DfE channels, for example GOV.UK, Apprenticeships website or our social media, must be planned in with the appropriate communications team. 
+
+## Next point ...
