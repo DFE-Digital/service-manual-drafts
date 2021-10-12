@@ -28,15 +28,16 @@ As content designers within the civil servies, we work to the standards publishe
 * [Service Manual](https://www.gov.uk/service-manual)
 * [Style guide](https://www.gov.uk/guidance/style-guide/a-to-z-of-gov-uk-style)
 
-We are part of the user-centred design profession family. You can [find what we do and what skills you need to become one](https://www.gov.uk/guidance/content-designer).
+We are part of the user-centred design profession family. [Find out more about what it takes to be a content designer](https://www.gov.uk/guidance/content-designer).
 
-We have a DfE wide [communications strategy](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/communications-dfe-govuk-content-strategy.aspx) which we also need to use when creating content. 
+We have a DfE wide [communications strategy](https://educationgovuk.sharepoint.com/sites/how-do-i/SitePages/communications-dfe-govuk-content-strategy.aspx), which we also need to use when creating content. 
 
-The following guidance will help you understand how we can work togther:
+The following guidance will help you understand how we can work togther at DfE:
 
 * user needs, start with them and remember they will change over time
 * it's not just about the words
 * accessibility, it's the law
 * test with users, get feedback and iterate
 * monitor anlytics and performance, continue to iterate and improve
+* when will it end
 
