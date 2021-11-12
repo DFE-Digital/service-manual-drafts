@@ -39,6 +39,7 @@ The following guidance will help you understand how we can work togther at DfE:
 * accessibility, it's the law
 * how to write well
 * test with users, get feedback and iterate
+* save your work, sustainable and scalable ways of working
 * monitor anlytics and performance, continue to iterate and improve
 * when will it end
 
@@ -75,6 +76,8 @@ GOV.UK users will spot bad content before they notice style inconsistencies acro
 ## How to write well
 
 ## Test with users, get feedback and iterate
+
+## Save your work, sustainable and scalable ways of working
 
 ## Monitor anlytics and performance, continue to iterate and improve
 
