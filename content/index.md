@@ -66,18 +66,16 @@ This list also shows the order of importance of these principles, if we’re una
 
 GOV.UK users will spot bad content before they notice style inconsistencies across the whole site.
 
-## From ESFA
+## User needs, start with them and remember they will change over time
 
-Minimum standards for any content:
+## It's not just about the words
 
-* be written to the GDS content style, applying DfE, ESFA or other where applicable
-* be structured to help the audience read through it
-* be named appropriately and therefore findable by search engines 
-* have been checked by another content designer or appropriate person (2 eyed) before publication
-* be accessible and in a format that meets accessibility requirements 
-* be in the correct format for its type of content
-* have the correct level of clearance through a sign off process
+## Accessibility, it's the law
 
-For any content on our main DfE channels, for example GOV.UK, Apprenticeships website or our social media, must be planned in with the appropriate communications team. 
+## How to write well
 
-## Next point ...
+## Test with users, get feedback and iterate
+
+## Monitor anlytics and performance, continue to iterate and improve
+
+## When will it end - or rather how will it be maintained
